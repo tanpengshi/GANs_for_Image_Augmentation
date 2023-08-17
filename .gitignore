@@ -1,0 +1,10 @@
+data/T81-855_raw/
+data/T81-855_glasses_dataset/
+models/
+GANs_diagram.docx
+split_glasses_data.ipynb
+train_first_discriminator.ipynb
+test_landmarks.ipynb
+train_discriminator_raw.ipynb
+train_generator_raw.ipynb
+add_glass_template_raw.ipynb
